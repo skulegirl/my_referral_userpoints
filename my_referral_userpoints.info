@@ -1,0 +1,8 @@
+name = My Referral Userponts (Custom)
+description = Users earn points for referrals
+core = 6.x
+version = 6.x-1.0
+dependencies[] = referral
+dependencies[] = userpoints
+
+
